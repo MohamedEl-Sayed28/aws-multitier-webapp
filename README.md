@@ -102,7 +102,7 @@ This project was undertaken to:
 Before you begin, ensure you have:
 
 - AWS Account with appropriate permissions
-- AWS CLI installed and configured
+- AWS CLI installed and configured, or you could do it using AWS console
 - Domain name (can use GoDaddy, Route 53, or any registrar)
 - Maven installed (version 3.6+)
 - Java JDK 11 or higher
