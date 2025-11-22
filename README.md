@@ -490,8 +490,8 @@ If you have questions or need help:
 
 **[Mohamed Othman]**
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐱 GitHub: [MohamedEl-Sayed28](https://github.com/yourusername)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-el-sayed-othman/)
+- 🐱 GitHub: [MohamedEl-Sayed28](https://github.com/MohamedEl-Sayed28)
 - 📧 Email: mohamedm.elsayedothman@gmail.com
 
 ---
