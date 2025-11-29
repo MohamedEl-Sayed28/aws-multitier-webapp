@@ -1,4 +1,4 @@
-# AWS Multi-Tier Web Application Stack
+# AWS Multi-Tier Web Application Stack 
 
 A production-ready, highly available multi-tier web application deployed on AWS cloud infrastructure. This project demonstrates the migration and modernization of a legacy on-premises application (vProfile) to a scalable, cloud-native architecture.
 
